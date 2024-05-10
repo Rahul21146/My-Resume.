@@ -62,10 +62,10 @@
 
 .links{
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
 }
 .social{ 
-    font-size: 30px;
+    font-size: 40px;
 }
 
 
@@ -105,7 +105,7 @@
         gap: 1.2rem;
     }
     .social{ 
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .heading h1{
