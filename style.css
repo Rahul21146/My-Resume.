@@ -134,7 +134,7 @@
 .education_content{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
     padding: 1rem;
     width: 100%;
     border-bottom: 2px solid grey; 
@@ -175,3 +175,40 @@
         
     }
   }
+
+ .skills_content{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    width: 100%;
+    border-bottom: 2px solid grey;
+ }
+
+ .Skills_heading h3{
+    font-size: x-large;
+    text-transform: uppercase;
+ }
+
+ .Skills_content{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+ }
+
+ .programming_language{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+ }
+
+ .skills p{
+    margin-left: 1rem;
+ }
+
+ .framework{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+ }
+ 
